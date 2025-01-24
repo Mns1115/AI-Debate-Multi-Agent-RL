@@ -1,0 +1,7 @@
+ray[rllib]==2.5.0
+gymnasium>=0.28.0
+pydantic==1.10.12
+pettingzoo==1.23.0
+supersuit==3.7.0
+numpy
+torch
